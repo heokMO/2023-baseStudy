@@ -1,12 +1,10 @@
 package com.example.basestudy.web.domain.posts;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
+import lombok.*;
 
 import javax.persistence.*;
 
+@Getter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
