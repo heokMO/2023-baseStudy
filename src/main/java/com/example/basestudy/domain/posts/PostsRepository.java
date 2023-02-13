@@ -1,4 +1,4 @@
-package com.example.basestudy.web.domain.posts;
+package com.example.basestudy.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

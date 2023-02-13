@@ -1,5 +1,7 @@
 package com.example.basestudy.web.domain.posts;
 
+import com.example.basestudy.domain.posts.Posts;
+import com.example.basestudy.domain.posts.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
